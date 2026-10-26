@@ -44,19 +44,3 @@ Dalam pemodelan *Machine Learning* untuk kasus regresi, metrik evaluasi digunaka
 
 ---
 
-## 3. Perintah Git untuk Push ke GitHub
-
-Berikut langkah-langkah perintah Git di Terminal/Git Bash untuk mengunggah perubahan file ke repositori GitHub:
-
-```bash
-# 1. Mengecek status file di folder proyek lokal
-git status
-
-# 2. Menambahkan seluruh file yang diubah/baru ke staging area
-git add .
-
-# 3. Menyimpan snapshot perubahan lokal dengan pesan komit
-git commit -m "Menambahkan penjelasan metrik evaluasi MAE RAE MSE RMSE R2 Score"
-
-# 4. Mengunggah komit dari lokal ke branch main di GitHub
-git push origin main
