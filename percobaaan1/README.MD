@@ -1,1 +1,0 @@
-# percobaaan 1
